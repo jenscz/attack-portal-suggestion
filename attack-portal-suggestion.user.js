@@ -3,8 +3,8 @@
 // @name           iitc: attack portal suggestion
 // @version        0.0.4
 // @namespace      https://github.com/breunigs/ingress-intel-total-conversion
-// @updateURL      https://github.com/jenscz/attack-portal-suggestion/attack-portal-suggestion.user.js
-// @downloadURL    https://github.com/jenscz/attack-portal-suggestion/attack-portal-suggestion.user.js
+// @updateURL      https://raw.github.com/jenscz/attack-portal-suggestion/master/attack-portal-suggestion.user.js
+// @downloadURL    https://raw.github.com/jenscz/attack-portal-suggestion/master/attack-portal-suggestion.user.js
 // @description    Show possible best portals to attack depends on their AP Gain and energy
 // @include        https://www.ingress.com/intel*
 // @match          https://www.ingress.com/intel*
