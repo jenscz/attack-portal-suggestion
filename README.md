@@ -1,5 +1,5 @@
-attack-portal-suggestion
-========================
+Attack Portal Suggestion Plugin
+===============================
 
 iitc: attack portal suggestion
 ------------------------------
