@@ -18,7 +18,7 @@ V "portálovém menu" se úplně dole zobrazí odkaz `A@!` (viz screenshot).
 
 Měla by se vám zobrazit tabulka (dialog) se seznamem portálů, jejich energie a možného bodového (AP) zisku za **zničení rezonátorů, linků a fieldů** (ne za deploy). Viz screenshot níže.
 
-Výsledna hodnota, podle které je seznam seřazen je vypočtena jako "zbývající energie portálu / AP zisk za zničení rezonátorů, linků a fieldů". Čím nižší je tento poměr, ti "levněji" AP získáte.
+Výsledna hodnota, podle které je seznam seřazen je vypočtena jako "zbývající energie portálu / AP zisk za zničení rezonátorů, linků a fieldů". Čím nižší je tento poměr je, tím "levněji" AP získáte.
 
 ![Screenshot dialog](https://raw.github.com/jenscz/attack-portal-suggestion/master/screenshot_dialog.png)
 
