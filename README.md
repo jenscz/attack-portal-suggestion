@@ -20,10 +20,13 @@ Měla by se vám zobrazit tabulka (dialog) se seznamem portálů, jejich energie
 
 Výsledna hodnota, podle které je seznam seřazen je vypočtena jako "zbývající energie portálu / AP zisk za zničení rezonátorů, linků a fieldů". Čím nižší je tento poměr je, tím "levněji" AP získáte.
 
+Pokud kliknete na portál v seznamu, měl by se vycentrovat na mapě a vybrat.
+
 ![Screenshot dialog](https://raw.github.com/jenscz/attack-portal-suggestion/master/screenshot_dialog.png)
 
 Informace o portálech si udržuje plugin perzistetně i při přechodu na jinou část mapy, pro smazanání těchto dat je třeba udělat refresh celé stránky.
 
 TODO
 ----
+* Lepší zobrazovací dialog.
 * Upravit výpočet na základě vzdálenosti rezonátorů od portálu.
