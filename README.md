@@ -12,4 +12,5 @@ Stejně jako ostatní pluginy, stačí přípdat jak skript do Greasemonkey nebo
 Použití
 -------
 V "portálovém menu" se úplně dole zobrazí odkaz `A@!` (viz screenshot).
+
 ![Screenshot](https://raw.github.com/jenscz/attack-portal-suggestion/master/screenshot_menu.png)
